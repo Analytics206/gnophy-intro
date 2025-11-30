@@ -126,3 +126,5 @@ This repository is informational and currently **no license** is applied. If/whe
 ---
 
 _Thank you for your interest in Gnophy. I hope this repo helps clarify the vision, architecture, and possibilities behind the project. Let me know if you'd like a version with graphics (SVG diagrams), more diagrams embedded, or a variant in a lighter “for non-tech” tone._
+
+Good day...
